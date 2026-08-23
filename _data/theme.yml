@@ -1,0 +1,15 @@
+# Skin des Themes: default, night, plum, sea, soft, steel
+skin: night
+
+# Reihenfolge der Menüpunkte (Titel + Permalink werden automatisch übernommen)
+navigation_pages:
+  - termin.md
+  - ablauf.md
+  - packliste.md
+  - impressum.md
+  - datenschutz.md
+
+navigation_external:
+  - title: "Discord"
+    url: "https://discord.gg/hhEyCExNm4"
+    new_tab: true

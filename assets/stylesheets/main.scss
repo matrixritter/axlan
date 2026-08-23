@@ -1,0 +1,103 @@
+---
+# Nur die Haupt-Sass-Datei braucht Front-Matter (die Striche genügen).
+---
+
+@charset "utf-8";
+
+// Farbiges Overlay über dem Intro-/Hero-Bild, damit sich das Logo
+// besser in den Skin einfügt.
+$intro-image-color-overlay: true;
+
+// Theme-Skin (aus _data/theme.yml)
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+// === Eigene Ergänzungen ==========================================
+
+// Neon-Akzent (passend zum Logo)
+$neon: #ff2d78;
+$neon-glow: #ff6aa0;
+
+// Kopfzeile: Titel links, Navigationslinks rechts
+#masthead {
+  border-bottom: 1px solid rgba($neon, 0.35);
+
+  .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+  }
+}
+
+.masthead-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+
+  a {
+    position: relative;
+    color: $text-color;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: none;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+  }
+
+  // dünne Neon-Linie, die beim Hover/aktiv aufleuchtet
+  a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -6px;
+    height: 2px;
+    background: $neon;
+    border-radius: 2px;
+    opacity: 0;
+    box-shadow: 0 0 8px rgba($neon, 0.9);
+    transition: opacity 0.2s ease;
+  }
+
+  a:hover,
+  a:focus {
+    color: $neon-glow;
+    text-shadow: 0 0 10px rgba($neon, 0.85);
+  }
+
+  a.is-active {
+    color: $neon-glow;
+    text-shadow: 0 0 10px rgba($neon, 0.85);
+  }
+
+  a:hover::after,
+  a:focus::after,
+  a.is-active::after {
+    opacity: 1;
+  }
+}
+
+// Orga-Team: Karten-Raster
+.orga-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.orga-card {
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  padding: 1.25rem;
+
+  h3 { margin-top: 0; margin-bottom: 0.25rem; }
+}
+
+.orga-role {
+  color: $accent-color;
+  font-weight: bold;
+  margin: 0 0 0.5rem;
+}

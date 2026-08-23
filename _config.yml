@@ -1,0 +1,56 @@
+# === Grunddaten ===================================================
+title: AXLAN
+description: >-
+  AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team
+  auf einen Blick.
+url: "https://axlan.de"
+baseurl: ""
+lang: "de-DE"
+logo: "/assets/img/favicon.png"
+copyright: "AXLAN"
+
+# === Theme ========================================================
+theme: jekyll-theme-basically-basic
+# Der Skin (night) wird in _data/theme.yml gesetzt.
+
+# === Suche ========================================================
+search: false
+
+# === Build ========================================================
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+timezone: Europe/Berlin
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# === Autor ========================================================
+author:
+  name: "Klaus Kruse"
+  picture: "/assets/img/favicon.png"
+
+# === Standardwerte ================================================
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      read_time: true
+      comments: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+include:
+  - .nojekyll
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

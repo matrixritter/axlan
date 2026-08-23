@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% include page-intro.html %}
+
+<main id="main" class="page-content" aria-label="Content">
+  <div class="index inner">
+    <div>{{ content }}</div>
+
+    {% assign pinned_posts = site.posts | where: "pin", true %}
+
+    {% if pinned_posts.size > 0 %}
+      <div>
+        <header class="section-title">
+          <h2>Start</h2>
+        </header>
+        <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          {% for post in pinned_posts %}
+            {% include entry.html %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+    {% if site.posts.size > 0 %}
+      <div>
+        <header class="section-title">
+          <h2>{{ site.data.theme.t.posts | default: 'Beiträge' }}</h2>
+        </header>
+        <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          {% for post in site.posts %}
+            {% unless post.pin %}
+              {% include entry.html %}
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+  </div>
+</main>
