@@ -29,6 +29,31 @@ $neon-glow: #ff6aa0;
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 0.5rem 1.5rem;
+
+    // Seitlicher Abstand wie beim Seiteninhalt/Footer, damit Titel und
+    // Navigation nicht direkt am Rand kleben.
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+
+    @media (min-width: 20em) {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+
+    @media (min-width: 48em) {
+      padding-right: 2rem;
+      padding-left: 2rem;
+    }
+
+    @media (min-width: 64em) {
+      padding-right: 3rem;
+      padding-left: 3rem;
+    }
+
+    @media (min-width: 80em) {
+      padding-right: 4rem;
+      padding-left: 4rem;
+    }
   }
 }
 

@@ -6,7 +6,7 @@ description: >-
 url: "https://axlan.de"
 baseurl: ""
 lang: "de-DE"
-logo: "/assets/img/favicon.png"
+logo: "/assets/img/web-app-manifest-192x192.png"
 copyright: "AXLAN"
 
 # === Theme ========================================================
@@ -29,7 +29,7 @@ plugins:
 # === Autor ========================================================
 author:
   name: "Klaus Kruse"
-  picture: "/assets/img/favicon.png"
+  picture: "/assets/img/web-app-manifest-192x192.png"
 
 # === Standardwerte ================================================
 defaults:
