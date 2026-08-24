@@ -1021,7 +1021,15 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 
 #masthead { border-bottom: 1px solid rgba(255, 45, 120, 0.35); }
 
-#masthead .inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+#masthead .inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1.5rem; padding-right: 0.5rem; padding-left: 0.5rem; }
+
+@media (min-width: 20em) { #masthead .inner { padding-right: 1rem; padding-left: 1rem; } }
+
+@media (min-width: 48em) { #masthead .inner { padding-right: 2rem; padding-left: 2rem; } }
+
+@media (min-width: 64em) { #masthead .inner { padding-right: 3rem; padding-left: 3rem; } }
+
+@media (min-width: 80em) { #masthead .inner { padding-right: 4rem; padding-left: 4rem; } }
 
 .masthead-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem; }
 
