@@ -4,7 +4,7 @@ skin: night
 # Reihenfolge der Menüpunkte (Titel + Permalink werden automatisch übernommen)
 navigation_pages:
   - termin.md
-  - ablauf.md
+  - infos.md
   - packliste.md
   - impressum.md
   - datenschutz.md

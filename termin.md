@@ -9,3 +9,8 @@ permalink: /termin/
 Die Location wird wie bisher das Büro der Axians im **Christoph-Probst-Weg 27, 20251 Hamburg** sein.
 
 Parken ist in der gegenüberliegenden Tiefgarage mit einem Zugangschip möglich. Für kurzes Be- und Entladen sind Parkplätze vor der Tür verfügbar.
+
+Termin für den Kalender: [Termin]({{ site.baseurl }}/assets/files/axlan.ics)
+
+QR Code: 
+![Image]({{ site.baseurl }}/assets/files/qrcode.png)

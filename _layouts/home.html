@@ -12,9 +12,6 @@ layout: default
 
     {% if pinned_posts.size > 0 %}
       <div>
-        <header class="section-title">
-          <h2>Start</h2>
-        </header>
         <div class="entries-{{ page.entries_layout | default: 'list' }}">
           {% for post in pinned_posts %}
             {% include entry.html %}
