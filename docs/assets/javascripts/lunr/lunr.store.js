@@ -4,7 +4,7 @@ var store = [{
         "tags": [],
         "url": "https://axlan.de/blog/2026/07/23/willkommen-bei-axlan/"
       },{
-        "title": "Zeitplan für die AXLAN#3 9.-11. Oktober 2026",
+        "title": "Zeitplan für die AXLAN#3",
         "excerpt":"In wenigen Tagen geht es los! Damit ihr wisst, was euch erwartet, hier der Zeitplanfür die AXLAN vom Freitag, 9. Oktober, 18:00 Uhr bis Sonntag, 11. Oktober, 12:00 Uhr.Wir wechseln zwischen Phasen, in denen wir gegeneinander spielen, Phasen mitkooperativen Spielen und Phasen mit lockeren Partygames. Die Spiele ⚔️ Kompetitiv: CS2,...","categories": [],
         "tags": [],
         "url": "https://axlan.de/blog/2026/10/05/zeitplan-axlan/"
