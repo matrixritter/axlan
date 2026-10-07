@@ -40,7 +40,7 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 | 16:00 – 18:00 | ⚔️🎉 Kompetitiv & Party | Blechschaden in **Wreckfest** und **Don't Stop Talking** |
 | 18:00 – 20:00 | 🍔 Grillen & Essen   | Pulled Meat Burger vom Grill                          |
 | 20:00 – 23:00 | ⚔️ Kompetitiv        | Abendrunde **CS2** und **Team Fortress 2**            |
-| ab 23:00      | 🎉 Partygames        | **SpiderHeck**, **Brotato**, **Don't Stop Talking** – danach freies Spielen |
+| ab 23:00      | 🤝 Kooperativ        | Zweite Nachtschicht in **Project Zomboid** – open end |
 
 ## Sonntag, 11. Oktober
 
