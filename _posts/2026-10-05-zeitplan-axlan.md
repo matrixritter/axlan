@@ -26,7 +26,7 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 | Uhrzeit       | Phase                | Programm                                              |
 |---------------|----------------------|-------------------------------------------------------|
 | 18:00 – 20:00 | 🍲 Ankommen & Essen  | Aufbauen, Rechner einrichten, Chili Con / Sin Carne   |
-| 20:00 – 22:00 | ⚔️ Kompetitiv        | Warm-up mit **Team Fortress 2**, danach **CS2**       |
+| 20:00 – 22:00 | ⚔️ Kompetitiv        | **Team Fortress 2** oder **CS2**                      |
 | ab 22:00      | 🤝 Kooperativ        | Nachtschicht in **Project Zomboid** – open end        |
 
 ## Samstag, 10. Oktober
@@ -39,7 +39,7 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 | 14:00 – 16:00 | ⚔️ Kompetitiv        | Strategie in **OpenRA**                               |
 | 16:00 – 18:00 | ⚔️🎉 Kompetitiv & Party | Blechschaden in **Wreckfest** und **Don't Stop Talking** |
 | 18:00 – 20:00 | 🍔 Grillen & Essen   | Pulled Meat Burger vom Grill                          |
-| 20:00 – 23:00 | ⚔️ Kompetitiv        | Abendrunde **CS2** und **Team Fortress 2**            |
+| 20:00 – 23:00 | ⚔️ Kompetitiv        | Abendrunde **CS2** oder **Team Fortress 2**           |
 | ab 23:00      | 🤝 Kooperativ        | Zweite Nachtschicht in **Project Zomboid** – open end |
 
 ## Sonntag, 11. Oktober
