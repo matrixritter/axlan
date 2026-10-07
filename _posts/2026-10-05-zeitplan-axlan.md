@@ -14,7 +14,7 @@ Wir wechseln zwischen Phasen, in denen wir **gegeneinander** spielen, Phasen mit
 
 ## Die Spiele
 
-- ⚔️ **Kompetitiv:** CS2, Team Fortress 2, Wreckfest, OpenRA
+- ⚔️ **Kompetitiv:** CS2, Team Fortress 2, Wreckfest, OpenRA, Worms United
 - 🤝 **Kooperativ:** Project Zomboid
 - 🎉 **Partygames:** Brotato, Don't Stop Talking, SpiderHeck
 
@@ -34,7 +34,7 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 | Uhrzeit       | Phase                | Programm                                              |
 |---------------|----------------------|-------------------------------------------------------|
 | 09:00 – 10:30 | 🥐 Frühstück         | Brötchen, Kaffee und langsam wach werden              |
-| 10:30 – 13:00 | 🤝 Kooperativ        | Weiter geht's in **Project Zomboid**                  |
+| 10:30 – 13:00 | ⚔️ Kompetitiv        | Rundenbasiertes Chaos in **Worms United**             |
 | 13:00 – 14:00 | 🍕 Mittagspause      | Selbstversorgung                                      |
 | 14:00 – 17:00 | ⚔️ Kompetitiv        | Strategie in **OpenRA**, danach Blechschaden in **Wreckfest** |
 | 17:00 – 18:00 | 🎉 Partygames        | **Don't Stop Talking** und **Brotato**                |
