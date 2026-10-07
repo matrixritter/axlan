@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-DE"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://axlan.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://axlan.de/" rel="alternate" type="text/html" hreflang="de-DE" /><updated>2026-08-30T21:42:45+02:00</updated><id>https://axlan.de/feed.xml</id><title type="html">AXLAN</title><subtitle>AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team auf einen Blick.</subtitle><author><name>Klaus Kruse</name></author><entry><title type="html">Willkommen auf der Seite der AXLAN</title><link href="https://axlan.de/blog/2026/07/23/willkommen-bei-axlan/" rel="alternate" type="text/html" title="Willkommen auf der Seite der AXLAN" /><published>2026-07-23T18:00:00+02:00</published><updated>2026-07-23T18:00:00+02:00</updated><id>https://axlan.de/blog/2026/07/23/willkommen-bei-axlan</id><content type="html" xml:base="https://axlan.de/blog/2026/07/23/willkommen-bei-axlan/"><![CDATA[<p>Die Vorbereitungen für die nächste <strong>AXLAN</strong> laufen! Auf dieser Seite halten wir
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-DE"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://axlan.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://axlan.de/" rel="alternate" type="text/html" hreflang="de-DE" /><updated>2026-10-08T00:01:13+02:00</updated><id>https://axlan.de/feed.xml</id><title type="html">AXLAN</title><subtitle>AXLAN – die LAN-Party. Neuigkeiten im Blog, Infos, Packliste und mehr auf einen Blick.</subtitle><author><name>Klaus Kruse</name></author><entry><title type="html">Zeitplan für die AXLAN#3 9.-11. Oktober 2026</title><link href="https://axlan.de/blog/2026/10/05/zeitplan-axlan/" rel="alternate" type="text/html" title="Zeitplan für die AXLAN#3 9.-11. Oktober 2026" /><published>2026-10-05T18:00:00+02:00</published><updated>2026-10-05T18:00:00+02:00</updated><id>https://axlan.de/blog/2026/10/05/zeitplan-axlan</id><content type="html" xml:base="https://axlan.de/blog/2026/10/05/zeitplan-axlan/"><![CDATA[<p>In wenigen Tagen geht es los! Damit ihr wisst, was euch erwartet, hier der Zeitplan
+für die AXLAN vom <strong>Freitag, 9. Oktober, 18:00 Uhr</strong> bis <strong>Sonntag, 11. Oktober, 12:00 Uhr</strong>.
+Wir wechseln zwischen Phasen, in denen wir <strong>gegeneinander</strong> spielen, Phasen mit
+<strong>kooperativen</strong> Spielen und Phasen mit lockeren <strong>Partygames</strong>.</p>
+
+<!--more-->
+
+<h2 id="die-spiele">Die Spiele</h2>
+
+<ul>
+  <li>⚔️ <strong>Kompetitiv:</strong> CS2, Team Fortress 2, Wreckfest, OpenRA</li>
+  <li>🤝 <strong>Kooperativ:</strong> Project Zomboid</li>
+  <li>🎉 <strong>Partygames:</strong> Brotato, Don’t Stop Talking, SpiderHeck, Worms United</li>
+</ul>
+
+<p>Bitte installiert alle Spiele schon <strong>vor der AXLAN</strong> und startet sie einmal, damit
+Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen.</p>
+
+<h2 id="freitag-9-oktober">Freitag, 9. Oktober</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Phase</th>
+      <th>Programm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18:00 – 20:00</td>
+      <td>🍲 Ankommen &amp; Essen</td>
+      <td>Aufbauen, Rechner einrichten, Chili Con / Sin Carne</td>
+    </tr>
+    <tr>
+      <td>20:00 – 22:00</td>
+      <td>⚔️ Kompetitiv</td>
+      <td><strong>Team Fortress 2</strong> oder <strong>CS2</strong></td>
+    </tr>
+    <tr>
+      <td>ab 22:00</td>
+      <td>🤝 Kooperativ</td>
+      <td>Nachtschicht in <strong>Project Zomboid</strong> – open end</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="samstag-10-oktober">Samstag, 10. Oktober</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Phase</th>
+      <th>Programm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00 – 10:30</td>
+      <td>🥐 Frühstück</td>
+      <td>Brötchen, Kaffee und langsam wach werden</td>
+    </tr>
+    <tr>
+      <td>10:30 – 13:00</td>
+      <td>🎉 Partygames</td>
+      <td>Rundenbasiertes Chaos in <strong>Worms United</strong></td>
+    </tr>
+    <tr>
+      <td>13:00 – 14:00</td>
+      <td>🍕 Mittagspause</td>
+      <td>Selbstversorgung</td>
+    </tr>
+    <tr>
+      <td>14:00 – 16:00</td>
+      <td>⚔️ Kompetitiv</td>
+      <td>Strategie in <strong>OpenRA</strong></td>
+    </tr>
+    <tr>
+      <td>16:00 – 18:00</td>
+      <td>⚔️🎉 Kompetitiv &amp; Party</td>
+      <td>Blechschaden in <strong>Wreckfest</strong> und <strong>Don’t Stop Talking</strong></td>
+    </tr>
+    <tr>
+      <td>18:00 – 20:00</td>
+      <td>🍔 Grillen &amp; Essen</td>
+      <td>Pulled Meat Burger vom Grill</td>
+    </tr>
+    <tr>
+      <td>20:00 – 23:00</td>
+      <td>⚔️ Kompetitiv</td>
+      <td>Abendrunde <strong>CS2</strong> oder <strong>Team Fortress 2</strong></td>
+    </tr>
+    <tr>
+      <td>ab 23:00</td>
+      <td>🤝 Kooperativ</td>
+      <td>Zweite Nachtschicht in <strong>Project Zomboid</strong> – open end</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="sonntag-11-oktober">Sonntag, 11. Oktober</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Phase</th>
+      <th>Programm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:30 – 09:30</td>
+      <td>🥐 Frühstück</td>
+      <td>Letztes gemeinsames Frühstück</td>
+    </tr>
+    <tr>
+      <td>09:30 – 12:00</td>
+      <td>🧹 Aufräumen</td>
+      <td>Abbauen, Plätze wiederherstellen, gründlich reinigen</td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td>👋 Ende</td>
+      <td>Ab nach Hause!</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Am Sonntag wird nicht mehr gespielt – bitte plant ein, beim Aufräumen mitzuhelfen.
+Mehr dazu findet ihr unter <a href="/ablauf/">Ablauf und Verpflegung</a>.</p>
+
+<h2 id="flexibel-bleiben">Flexibel bleiben</h2>
+
+<p>Der Zeitplan ist eine <strong>Orientierung</strong>, kein starres Korsett. Wenn eine Runde gerade
+richtig Spaß macht, spielen wir weiter – und wer zwischendurch eine Pause braucht,
+nimmt sie sich. Wünsche und Vorschläge gerne im <a href="https://discord.gg/hhEyCExNm4">Discord</a>
+im Kanal #Allgemein.</p>
+
+<p>Wir sehen uns am Freitag! 🎮</p>]]></content><author><name>Orga-Team</name></author><summary type="html"><![CDATA[In wenigen Tagen geht es los! Damit ihr wisst, was euch erwartet, hier der Zeitplan für die AXLAN vom Freitag, 9. Oktober, 18:00 Uhr bis Sonntag, 11. Oktober, 12:00 Uhr. Wir wechseln zwischen Phasen, in denen wir gegeneinander spielen, Phasen mit kooperativen Spielen und Phasen mit lockeren Partygames.]]></summary></entry><entry><title type="html">Willkommen auf der Seite der AXLAN</title><link href="https://axlan.de/blog/2026/07/23/willkommen-bei-axlan/" rel="alternate" type="text/html" title="Willkommen auf der Seite der AXLAN" /><published>2026-07-23T18:00:00+02:00</published><updated>2026-07-23T18:00:00+02:00</updated><id>https://axlan.de/blog/2026/07/23/willkommen-bei-axlan</id><content type="html" xml:base="https://axlan.de/blog/2026/07/23/willkommen-bei-axlan/"><![CDATA[<p>Willkommen auf der Seite der <strong>AXLAN</strong>! Auf dieser Seite halten wir
 euch ab sofort auf dem Laufenden: Termine, Ablauf und alles
 Wichtige rund um die nächste LAN-Party.</p>
 
@@ -13,9 +153,9 @@ oder gemütliches Coop – wir sind für alles offen.</p>
 
 <ul>
   <li><a href="/termin">Termin</a> im Kalender vormerken</li>
-  <li>Die <a href="/packliste/">Packliste</a> checken</li>
   <li>Sich mit dem <a href="/ablauf/">Ablauf</a> vertraut machen</li>
+  <li>Die <a href="/packliste/">Packliste</a> checken</li>
   <li>Bei Fragen bitte sich im <a href="https://discord.gg/hhEyCExNm4">Discord</a> im Kanal #Allgemein melden</li>
 </ul>
 
-<p>Bis bald auf der AXLAN! 🎮</p>]]></content><author><name>Orga-Team</name></author><summary type="html"><![CDATA[Die Vorbereitungen für die nächste AXLAN laufen! Auf dieser Seite halten wir euch ab sofort auf dem Laufenden: Termine, Ablauf und alles Wichtige rund um die nächste LAN-Party.]]></summary></entry></feed>
+<p>Bis bald auf der AXLAN! 🎮</p>]]></content><author><name>Orga-Team</name></author><summary type="html"><![CDATA[Willkommen auf der Seite der AXLAN! Auf dieser Seite halten wir euch ab sofort auf dem Laufenden: Termine, Ablauf und alles Wichtige rund um die nächste LAN-Party.]]></summary></entry></feed>

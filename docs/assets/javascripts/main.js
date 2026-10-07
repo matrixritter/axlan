@@ -8,13 +8,13 @@
   
     
     <!-- Begin Jekyll SEO tag v2.9.0 -->
-<title>AXLAN | AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team auf einen Blick.</title>
+<title>AXLAN | AXLAN – die LAN-Party. Neuigkeiten im Blog, Infos, Packliste und mehr auf einen Blick.</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="AXLAN" />
 <meta name="author" content="Klaus Kruse" />
 <meta property="og:locale" content="de_DE" />
-<meta name="description" content="AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team auf einen Blick." />
-<meta name="twitter:description" property="og:description" content="AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team auf einen Blick." />
+<meta name="description" content="AXLAN – die LAN-Party. Neuigkeiten im Blog, Infos, Packliste und mehr auf einen Blick." />
+<meta name="twitter:description" property="og:description" content="AXLAN – die LAN-Party. Neuigkeiten im Blog, Infos, Packliste und mehr auf einen Blick." />
 <link rel="canonical" href="https://axlan.de/assets/javascripts/main.js" />
 <meta property="og:url" content="https://axlan.de/assets/javascripts/main.js" />
 <meta property="og:site_name" content="AXLAN" />
@@ -22,7 +22,7 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="AXLAN" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Klaus Kruse"},"description":"AXLAN – die LAN-Party. Neuigkeiten im Blog, Packliste und das Orga-Team auf einen Blick.","headline":"AXLAN","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://axlan.de/assets/img/web-app-manifest-192x192.png"},"name":"Klaus Kruse"},"url":"https://axlan.de/assets/javascripts/main.js"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Klaus Kruse"},"description":"AXLAN – die LAN-Party. Neuigkeiten im Blog, Infos, Packliste und mehr auf einen Blick.","headline":"AXLAN","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://axlan.de/assets/img/web-app-manifest-192x192.png"},"name":"Klaus Kruse"},"url":"https://axlan.de/assets/javascripts/main.js"}</script>
 <!-- End Jekyll SEO tag -->
 
   
