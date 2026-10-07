@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Der Zeitplan für die AXLAN"
+title: "Zeitplan für die AXLAN#3 9.-11. Oktober 2026"
 date: 2026-10-05 18:00:00 +0200
 author: Orga-Team
 ---
