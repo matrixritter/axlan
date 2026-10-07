@@ -27,8 +27,7 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 |---------------|----------------------|-------------------------------------------------------|
 | 18:00 – 20:00 | 🍲 Ankommen & Essen  | Aufbauen, Rechner einrichten, Chili Con / Sin Carne   |
 | 20:00 – 22:00 | ⚔️ Kompetitiv        | Warm-up mit **Team Fortress 2**, danach **CS2**       |
-| 22:00 – 00:00 | 🎉 Partygames        | **SpiderHeck** und **Brotato**                        |
-| ab 00:00      | 🤝 Kooperativ        | Nachtschicht in **Project Zomboid** – open end        |
+| ab 22:00      | 🤝 Kooperativ        | Nachtschicht in **Project Zomboid** – open end        |
 
 ## Samstag, 10. Oktober
 
