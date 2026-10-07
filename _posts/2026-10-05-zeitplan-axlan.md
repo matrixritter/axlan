@@ -14,9 +14,9 @@ Wir wechseln zwischen Phasen, in denen wir **gegeneinander** spielen, Phasen mit
 
 ## Die Spiele
 
-- ⚔️ **Kompetitiv:** CS2, Team Fortress 2, Wreckfest, OpenRA, Worms United
+- ⚔️ **Kompetitiv:** CS2, Team Fortress 2, Wreckfest, OpenRA
 - 🤝 **Kooperativ:** Project Zomboid
-- 🎉 **Partygames:** Brotato, Don't Stop Talking, SpiderHeck
+- 🎉 **Partygames:** Brotato, Don't Stop Talking, SpiderHeck, Worms United
 
 Bitte installiert alle Spiele schon **vor der AXLAN** und startet sie einmal, damit
 Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen.
@@ -34,13 +34,13 @@ Updates erledigt sind und wir nicht vor Ort die Leitung mit Downloads verstopfen
 | Uhrzeit       | Phase                | Programm                                              |
 |---------------|----------------------|-------------------------------------------------------|
 | 09:00 – 10:30 | 🥐 Frühstück         | Brötchen, Kaffee und langsam wach werden              |
-| 10:30 – 13:00 | ⚔️ Kompetitiv        | Rundenbasiertes Chaos in **Worms United**             |
+| 10:30 – 13:00 | 🎉 Partygames        | Rundenbasiertes Chaos in **Worms United**             |
 | 13:00 – 14:00 | 🍕 Mittagspause      | Selbstversorgung                                      |
-| 14:00 – 17:00 | ⚔️ Kompetitiv        | Strategie in **OpenRA**, danach Blechschaden in **Wreckfest** |
-| 17:00 – 18:00 | 🎉 Partygames        | **Don't Stop Talking** und **Brotato**                |
+| 14:00 – 16:00 | ⚔️ Kompetitiv        | Strategie in **OpenRA**                               |
+| 16:00 – 18:00 | ⚔️🎉 Kompetitiv & Party | Blechschaden in **Wreckfest** und **Don't Stop Talking** |
 | 18:00 – 20:00 | 🍔 Grillen & Essen   | Pulled Meat Burger vom Grill                          |
 | 20:00 – 23:00 | ⚔️ Kompetitiv        | Abendrunde **CS2** und **Team Fortress 2**            |
-| ab 23:00      | 🎉 Partygames        | **SpiderHeck**, **Don't Stop Talking** – danach freies Spielen |
+| ab 23:00      | 🎉 Partygames        | **SpiderHeck**, **Brotato**, **Don't Stop Talking** – danach freies Spielen |
 
 ## Sonntag, 11. Oktober
 
